@@ -1,0 +1,9 @@
+Dataset: World Happiness Report 2024
+
+The dataset contains country-level happiness scores and related economic and social indicators for 2024.
+
+Source:
+World Happiness Report 2024
+https://worldhappiness.report/ed/2024/
+
+The CSV included in this repository is the dataset used for the analysis.
